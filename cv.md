@@ -6,5 +6,5 @@ this position right now and it is exciting to get more new information and skill
  I can use on practice Git cmd, git source tree and part of SOLID. It is possible for me to use BLOC Pattern, Android Studio, databases SQLite and Microsoft SQL Server.
 5. You can ask me about this at my email.
 6. I do not have open source projects but now I am working on junior developer position, learning some courses android dev but not completely.
-7. KarGTU University in Karaganda, Kazakhstan
+7. KarGTU University in Karaganda, Kazakhstan.
 8. I have got A2 level.
